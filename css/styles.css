@@ -1,0 +1,17 @@
+h1 {
+  color:darkred;
+  text-align:center;
+}
+
+h2{
+  color:red;
+  font-style:italic;
+  text-align:center;
+}
+p{
+  color: crimson;
+  font-family: sans-serif;
+}
+ul{
+  line-height:40px
+}
